@@ -4,7 +4,7 @@
   <name>IH CS Filter Project</name>
   <notifyadmins>F</notifyadmins>
   <notifyemails></notifyemails>
-  <notifyowner>T</notifyowner>
+  <notifyowner>F</notifyowner>
   <notifyuser>F</notifyuser>
   <scriptfile>[/SuiteScripts/IH_CS_Filter_Proj.js]</scriptfile>
   <scriptdeployments>
